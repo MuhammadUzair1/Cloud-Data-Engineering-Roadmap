@@ -1,4 +1,4 @@
-# Cloud Data Engineering - Batch 1: Course Roadmap
+# Cloud Data Engineering - Roadmap
 
 Welcome to the **Cloud Data Engineering** course! This comprehensive 6-8 month journey is designed to equip you with the necessary skills to become a proficient Data Engineer, focusing on cloud-based technologies, data acquisition, modeling, warehousing, and orchestration. Our curriculum is divided into **5 modules** that include hands-on projects, assignments, and real-world case studies to ensure a practical understanding of the technologies covered.
 
