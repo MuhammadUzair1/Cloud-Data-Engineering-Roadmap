@@ -8,6 +8,8 @@ This repository include the Roadmap for Data Engineering. Since Data Engineering
 
 NOTE: It is a first draft of the course we'll Keep on updating.
 
+**VERSION: 1.0.3**
+
 ---
 
 ## Table of Contents
