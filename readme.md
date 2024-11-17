@@ -27,7 +27,7 @@ NOTE: It is a first draft of the course we'll Keep on updating.
 
 This course is meticulously crafted to cover all facets of Cloud Data Engineering. You'll learn everything from the basics of data acquisition and transformation to advanced cloud-based data warehousing, orchestration, and streaming techniques. The course is structured to build your skills progressively, ensuring you are ready to tackle complex data engineering challenges by the end.
 
-- [Understanding Data Engineering](.\docs\Understanding Data Engineering.pptx)
+- [Understanding Data Engineering](https://github.com/MuhammadUzair1/Cloud-Data-Engineering-Roadmap/blob/main/docs/Understanding%20Data%20Engineering.pptx)
 
 ---
 
