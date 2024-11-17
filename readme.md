@@ -137,11 +137,18 @@ Master cloud-based data warehousing with Snowflake, focusing on scalability and 
 
 2. **Badges Assignment**
 
-   - Complete tasks to earn Snowflake certification badges
+3. Batch 1: http://learn.snowflake.com/en/courses/uni-essdww101/
+4. Batch 2: http://learn.snowflake.com/en/courses/uni-ess-cmcw/
+5. Batch 3: http://learn.snowflake.com/en/courses/uni-ess-dabw/
+6. Batch 4: http://learn.snowflake.com/en/courses/uni-ess-dlkw/
+7. Batch 5: http://learn.snowflake.com/en/courses/uni-ess-dngw/
+
+- [Project -2 Snowflake real time Data Warehouse for beginners](https://www.projectpro.io/project-use-case/snowflake-real-time-data-warehouse-project-for-beginners)
+- [Project -3 Change Data Captue Pipeline with Snowflake & AWS ](https://www.projectpro.io/project-use-case/how-to-implement-slowly-changing-dimensions-in-snowflake)
 
 3. **Snowflake Masterclass (Udemy)**
 
-   - Work through 5 sections of the course to solidify your understanding
+   - Working through 5 sections of the course to solidify understanding [Snowflake – The Complete Masterclass](https://www.udemy.com/course/snowflake-masterclass/)
 
 4. **Hands-on Projects**
    - Implement 3 projects covering:
