@@ -6,9 +6,7 @@ Welcome to the **Cloud Data Engineering** course! This comprehensive 6-8 month j
 
 This repository include the Roadmap for Data Engineering. Since Data Engineering is a broad field we'll try to cover following tools.
 
-NOTE: It is a first draft of the course we'll Keep on updating.
-
-**VERSION: 1.2.3**
+**VERSION: 1.2.1**
 
 ---
 
@@ -52,7 +50,7 @@ The focus of this module is on acquiring, manipulating, and processing data from
    - **Objective**: Understand the fundamentals of Data Engineering and Python setup.
    - **Outcome**: Be proficient in setting up Python and tools for data handling.
 
-2. **Python for Data Engineering (Pandas) + Case Study**
+2. **Python for Data Engineering (Numpy + Pandas) + Case Study**
 
    - **Objective**: Data manipulation using Pandas.
    - **Case Study**: Clean and analyze real-world datasets using Pandas.
