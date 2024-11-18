@@ -8,7 +8,7 @@ This repository include the Roadmap for Data Engineering. Since Data Engineering
 
 NOTE: It is a first draft of the course we'll Keep on updating.
 
-**VERSION: 1.1.3**
+**VERSION: 1.2.3**
 
 ---
 
@@ -29,13 +29,13 @@ NOTE: It is a first draft of the course we'll Keep on updating.
 
 This course is meticulously crafted to cover all facets of Cloud Data Engineering. You'll learn everything from the basics of data acquisition and transformation to advanced cloud-based data warehousing, orchestration, and streaming techniques. The course is structured to build your skills progressively, ensuring you are ready to tackle complex data engineering challenges by the end.
 
-- [Understanding Data Engineering](./docs/Understanding%20Data%20Engineering.pptx)
-
 ---
 
 ## Understanding Data Engineering
 
 Before starting the digging deep into the field of Data Engineering one should know what is Data Engineering, What is the Scope of Data ENgineering in 2024, what tools are required to have knowledge for data engineering.
+
+- [Understanding Data Engineering](./docs/Understanding%20Data%20Engineering.pptx)
 
 ---
 
@@ -79,6 +79,15 @@ The focus of this module is on acquiring, manipulating, and processing data from
 
 7. **Web Scraping Case Study**
    - **Final Assignment**: Build a comprehensive web scraping solution using both BeautifulSoup and Selenium.
+
+### Case Studies:
+
+- [Case Study 1: Nobel Prize Winners](https://github.com/MuhammadUzair1/Case-Study-1-Nobel-Prize-Winners)
+- [Case Study 2: Cleaning Bank Marketing Data](https://github.com/MuhammadUzair1/Case-Study-2-Data-Cleaning)
+
+### Project:
+
+- [Project 1: Analyzing Airbnb Market Trends](https://github.com/MuhammadUzair1/EDA-Project-Airbnb-Market-Trends)
 
 ---
 
@@ -137,24 +146,20 @@ Master cloud-based data warehousing with Snowflake, focusing on scalability and 
 
 2. **Badges Assignment**
 
-3. Batch 1: http://learn.snowflake.com/en/courses/uni-essdww101/
-4. Batch 2: http://learn.snowflake.com/en/courses/uni-ess-cmcw/
-5. Batch 3: http://learn.snowflake.com/en/courses/uni-ess-dabw/
-6. Batch 4: http://learn.snowflake.com/en/courses/uni-ess-dlkw/
-7. Batch 5: http://learn.snowflake.com/en/courses/uni-ess-dngw/
-
-- [Project -2 Snowflake real time Data Warehouse for beginners](https://www.projectpro.io/project-use-case/snowflake-real-time-data-warehouse-project-for-beginners)
-- [Project -3 Change Data Captue Pipeline with Snowflake & AWS ](https://www.projectpro.io/project-use-case/how-to-implement-slowly-changing-dimensions-in-snowflake)
+- [Badge 1: Data Warehousing Workshop](http://learn.snowflake.com/en/courses/uni-essdww101/)
+- [Badge 2: Collaboration, Marketplace & Cost Estimation Workshop](http://learn.snowflake.com/en/courses/uni-ess-cmcw/)
+- [Badge 3: Data Application Builders Workshop](http://learn.snowflake.com/en/courses/uni-ess-dabw/)
+- [Badge 4: Data Lake Workshop](http://learn.snowflake.com/en/courses/uni-ess-dlkw/)
+- [Badge 5: Data Engineering Workshop](http://learn.snowflake.com/en/courses/uni-ess-dngw/)
 
 3. **Snowflake Masterclass (Udemy)**
 
    - Working through 5 sections of the course to solidify understanding [Snowflake – The Complete Masterclass](https://www.udemy.com/course/snowflake-masterclass/)
 
-4. **Hands-on Projects**
-   - Implement 3 projects covering:
-     - Data warehousing setup
-     - ETL processes
-     - Advanced querying and performance tuning
+### Projects:
+
+- [Project -3 Snowflake real time Data Warehouse for beginners](https://www.projectpro.io/project-use-case/snowflake-real-time-data-warehouse-project-for-beginners)
+- [Project -4 Change Data Captue Pipeline with Snowflake & AWS ](https://www.projectpro.io/project-use-case/how-to-implement-slowly-changing-dimensions-in-snowflake)
 
 ---
 
