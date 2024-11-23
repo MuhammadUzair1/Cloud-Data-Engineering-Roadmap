@@ -6,7 +6,7 @@ Welcome to the **Cloud Data Engineering** course! This comprehensive 6-8 month j
 
 This repository include the Roadmap for Data Engineering. Since Data Engineering is a broad field we'll try to cover following tools.
 
-**VERSION: 1.2.1**
+**VERSION: 1.2.2**
 
 ---
 
@@ -50,15 +50,24 @@ The focus of this module is on acquiring, manipulating, and processing data from
    - **Objective**: Understand the fundamentals of Data Engineering and Python setup.
    - **Outcome**: Be proficient in setting up Python and tools for data handling.
 
+   #####Resource:
+   [Python - Zero to Hero](https://www.w3schools.com/python/)
+
 2. **Python for Data Engineering (Numpy + Pandas) + Case Study**
 
    - **Objective**: Data manipulation using Pandas.
    - **Case Study**: Clean and analyze real-world datasets using Pandas.
 
+   #####Resource: 
+   [Numpy and Pandas - Beginner to Advanced](https://github.com/MuhammadUzair1/Saylani-CDE-Batch1)
+
 3. **Version Control (Git + Python Project)**
 
    - **Objective**: Learn Git for version control and collaboration.
    - **Assignment**: Create a Python project and push it to GitHub.
+
+   #####Tutorial: 
+   [Git and Github Tutorial](https://github.com/MuhammadUzair1/Git-and-Github-Tutorial)
 
 4. **Bash/Shell Scripting**
 
@@ -74,9 +83,6 @@ The focus of this module is on acquiring, manipulating, and processing data from
 
    - **Objective**: Scrape data from dynamic websites.
    - **Assignment**: Create a Selenium script to scrape data from an e-commerce site.
-
-7. **Web Scraping Case Study**
-   - **Final Assignment**: Build a comprehensive web scraping solution using both BeautifulSoup and Selenium.
 
 ### Case Studies:
 
